@@ -2,10 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int tal, sum, test;
+        int tal, sum, test, test2;
         tal = 0;
         sum = 0;
         test = 40;
+        test2 = 50;
 
         /*
         //print alle tal mellem 0 og 100
